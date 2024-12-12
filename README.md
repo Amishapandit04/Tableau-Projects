@@ -1,0 +1,1 @@
+Waterfall chart here represents the superstore data interpretation through funnel and waterfall chart visulaising market trends where it differentiate the flow of things, and traditional, linear, and sequential approach to software development,for different sectors
